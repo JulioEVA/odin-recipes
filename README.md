@@ -1,2 +1,3 @@
 # odin-recipes
-First webpage created following The Odin Project curriculum.
+This project is a simple webpage with recipes that uses the knowledge that I've aquired this far.
+
